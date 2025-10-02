@@ -1,0 +1,8 @@
+C:\Users\andre\OneDrive\Documents\Github\Lab\Lab7Week7\Plugin\Lab7\Lab7\Lab7\bin\Debug\Lab7.dll
+C:\Users\andre\OneDrive\Documents\Github\Lab\Lab7Week7\Plugin\Lab7\Lab7\Lab7\bin\Debug\Lab7.pdb
+C:\Users\andre\OneDrive\Documents\Github\Lab\Lab7Week7\Plugin\Lab7\Lab7\Lab7\bin\Debug\UnityEngine.dll
+C:\Users\andre\OneDrive\Documents\Github\Lab\Lab7Week7\Plugin\Lab7\Lab7\Lab7\bin\Debug\UnityEngine.xml
+C:\Users\andre\OneDrive\Documents\Github\Lab\Lab7Week7\Plugin\Lab7\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documents\Github\Lab\Lab7Week7\Plugin\Lab7\Lab7\Lab7\obj\Debug\Lab7.csproj.CopyComplete
+C:\Users\andre\OneDrive\Documents\Github\Lab\Lab7Week7\Plugin\Lab7\Lab7\Lab7\obj\Debug\Lab7.dll
+C:\Users\andre\OneDrive\Documents\Github\Lab\Lab7Week7\Plugin\Lab7\Lab7\Lab7\obj\Debug\Lab7.pdb

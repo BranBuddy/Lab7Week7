@@ -38,7 +38,7 @@ public class TestDLL : MonoBehaviour
 
         // Get the elapsed time
         long elapsedMilliseconds = stopwatch.ElapsedMilliseconds;
-        UnityEngine.Debug.Log($"MyFunctionToTest took {elapsedMilliseconds} ms to execute.");
+        UnityEngine.Debug.Log($"Native plugin took {elapsedMilliseconds} ms to execute.");
     }
 
     void MyFunctionToTest()
